@@ -1,3 +1,7 @@
+h2{
+    text-decoration: underline;
+    color: red;
+}
 p{
     color:blue;
 }
