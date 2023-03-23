@@ -5,3 +5,7 @@ h2{
 p{
     color:blue;
 }
+div{
+    height: 500px;
+    width: 500px;
+}
